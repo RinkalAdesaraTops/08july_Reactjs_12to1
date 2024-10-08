@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "test",
+      "age": "12",
+      "id": 1
+    },
+    {
+      "name": "xyz",
+      "age": "29",
+      "id": 2
+    },
+    {
+      "name": "pqr",
+      "age": "25",
+      "id": 4
+    }
+  ],
+  "category": [
+    "jewellary",
+    "mens cloth",
+    "womens cloth"
+  ]
+}
